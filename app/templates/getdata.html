@@ -1,0 +1,70 @@
+{%extends "base.html" %}
+{% block app_content%}
+
+    <h1>请输入您想搜索的内容</h1>
+    <br>
+    <div class="row">
+        <div class="col-md-6">
+            {% import 'bootstrap/wtf.html' as wtf %}
+            {{ wtf.quick_form(form) }}
+        </div>
+    </div>
+
+<!--    <button type="button" class="btn btn-default navbar-btn">展示数据</button>-->
+
+    {% if flag==1: %}
+        <hr/>
+        <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading" >{{ filename }}.csv数据内容</div>
+                <table class="table">
+
+                    {% for i in range(-1,title): %}
+                        <tr>
+                            {% if i==-1: %}
+                                <td>
+                                    微博内容
+                                </td>
+                            {% else %}
+                                <td>
+                                    {{ data['微博内容'][i] }}
+                                </td>
+                            {% endif %}
+
+                            {% if i==-1: %}
+                                <td>
+                                    发布者名称
+                                </td>
+                            {% else %}
+                                <td>
+                                    {{ data['发布者名称'][i] }}
+                                </td>
+                            {% endif %}
+
+                            {% if i==-1: %}
+                                <td>
+                                    发布时间以及设备
+                                </td>
+                            {% else %}
+                                <td>
+                                    {{ data['发布时间以及设备'][i] }}
+                                </td>
+                            {% endif %}
+
+                            {% if i==-1: %}
+                                <td>
+                                    发布者主页
+                                </td>
+                            {% else %}
+                                <td>
+                                    {{ data['发布者主页'][i] }}
+                                </td>
+                            {% endif %}
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    {% endif %}
+
+{% endblock %}

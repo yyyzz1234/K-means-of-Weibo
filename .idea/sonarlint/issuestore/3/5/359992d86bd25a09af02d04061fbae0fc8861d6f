@@ -1,0 +1,6 @@
+
+hpython:S100"SRename method "displayEmployee" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü„O
+;python:S125"Remove this commented out code.(’ÿ–ùÿÿÿÿ
+;python:S1255"Remove this commented out code.(¤×¯Ëùÿÿÿÿ
+gpython:S100D"KRename method "saveCsv" to match the regular expression ^[a-z_][a-z0-9_]*$.(”°€‹ÿÿÿÿÿ
+;python:S125Q"Remove this commented out code.(Ÿœİûÿÿÿÿ

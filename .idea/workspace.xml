@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f0fab19-99df-46d1-a75a-4cb77ae757d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21gjtiQin5RAQ7VYDhxf4fNHJgM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MyTest\PythonTest\graduation project\data\csvdata" />
+      <recent name="C:\MyTest\PythonTest\graduation project\app\static\asset" />
+      <recent name="C:\MyTest\PythonTest\graduation project\app\templates" />
+      <recent name="C:\MyTest\PythonTest\graduation project\app" />
+      <recent name="C:\MyTest\PythonTest\graduation project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyTest\PythonTest\graduation project" />
+      <recent name="C:\MyTest\PythonTest\graduation project\app" />
+      <recent name="C:\MyTest\PythonTest\graduation project\data\pngdata" />
+      <recent name="C:\MyTest\PythonTest\graduation project\app\static\images" />
+      <recent name="C:\MyTest\PythonTest\graduation project\app\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\MyTest\PythonTest\graduation project\venv\Include\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\MyTest\PythonTest\graduation project\venv\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mygui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/mygui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="routes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/routes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="study1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="study2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="graduation project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/study2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.study1" />
+        <item itemvalue="Python.mygui" />
+        <item itemvalue="Python.routes" />
+        <item itemvalue="Python.study2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f0fab19-99df-46d1-a75a-4cb77ae757d4" name="Default Changelist" comment="" />
+      <created>1638369840513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638369840513</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648482225137">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="491" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1648482225137" />
+    <state x="509" y="243" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1644563249917">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="509" y="243" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.816@0.0.1536.816" timestamp="1644563249917" />
+    <state x="557" y="118" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1643199652861">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="557" y="118" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.816@0.0.1536.816" timestamp="1643199652861" />
+    <state x="499" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650598146206">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1650598146206" />
+    <state x="536" y="241" key="#com.intellij.tools.ToolEditorDialog" timestamp="1643201974787">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="536" y="241" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.816@0.0.1536.816" timestamp="1643201974787" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1651719772078">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1651719772078" />
+    <state width="1515" height="69" key="GridCell.Tab.0.bottom" timestamp="1651589984173">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="69" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1651589984173" />
+    <state width="1515" height="69" key="GridCell.Tab.0.center" timestamp="1651589984173">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="69" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1651589984173" />
+    <state width="1515" height="69" key="GridCell.Tab.0.left" timestamp="1651589984173">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="69" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1651589984173" />
+    <state width="1515" height="69" key="GridCell.Tab.0.right" timestamp="1651589984173">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="69" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1651589984173" />
+    <state width="1515" height="257" key="GridCell.Tab.1.bottom" timestamp="1645009971888">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="257" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1645009971888" />
+    <state width="1515" height="257" key="GridCell.Tab.1.center" timestamp="1645009971888">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="257" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1645009971888" />
+    <state width="1515" height="257" key="GridCell.Tab.1.left" timestamp="1645009971888">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="257" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1645009971888" />
+    <state width="1515" height="257" key="GridCell.Tab.1.right" timestamp="1645009971888">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="257" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1645009971888" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1651721440999">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1651721440999" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1648264888984">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1648264888984" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/routes.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

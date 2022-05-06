@@ -1,0 +1,86 @@
+{%extends "base.html" %}
+{% block app_content%}
+<!--    <h1>Hello,{{ current_user.username }}</h1>-->
+    <div class="jumbotron">
+        <h1>您好,{{ current_user.username }}！</h1>
+        <p>欢迎使用基于K-means算法微博热点聚类系统，希望可以帮助您更好的获取有效信息，挖掘有价值的微博数据！</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">了解更多信息</a></p>
+    </div>
+    <div class="row">
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="static/asset/1.jpg" class="img-fluid" alt="获取数据" width="241" height="200">
+          <div class="caption">
+            <h3>获取数据</h3>
+            <p>通过网页爬虫按照一定的规则自动的来获取微博数据信息，模拟微博登录，使用该Cookie对后续的数据进行爬取。</p>
+            <p><a href="{{ url_for('getdata') }}" class="btn btn-primary" role="button">点击使用</a>
+<!--                <a href="#" class="btn btn-default" role="button">Button</a>-->
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="static/asset/2.jpg" class="img-fluid" alt="分词去停用词" width="241" height="200">
+          <div class="caption">
+            <h3>分词去停用词</h3>
+            <p>通过采用jieba中文分词之后，文本中的句子被切分成一个个短语字词。然后采用去停用词表对筛去无意义的词。</p>
+            <p><a href="{{ url_for('cleanfile') }}" class="btn btn-primary" role="button">点击使用</a>
+<!--                <a href="#" class="btn btn-default" role="button">Button</a>-->
+            </p>
+          </div>
+        </div>
+      </div>
+        <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="static/asset/3.jpg" class="img-fluid" alt="词云展示" width="241" height="200">
+          <div class="caption">
+            <h3>词云展示</h3>
+            <p>根据处理后的分词文本，调用wordcloud函数，根据频率生成词云，一个WordCloud类可以实现其函数的功能。</p>
+            <p><a href="{{ url_for('cloudword') }}" class="btn btn-primary" role="button">点击使用</a>
+<!--                <a href="#" class="btn btn-default" role="button">Button</a>-->
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="static/asset/4.jpg" class="img-fluid" alt="Td-Idf计算" width="241" height="180">
+          <div class="caption">
+            <h3>Td-Idf计算</h3>
+            <p>对分词后的文本进行Tf-Idf权重计算，把语料库的关键词集合在一起，然后计算各个关键词的权重，生成向量空间模型。</p>
+            <p><a href="{{ url_for('td_idf') }}" class="btn btn-primary" role="button">点击使用</a>
+<!--                <a href="#" class="btn btn-default" role="button">Button</a>-->
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="static/asset/5.jpg" class="img-fluid" alt="K-means聚类计算" width="241" height="200">
+          <div class="caption">
+            <h3>K-means聚类计算</h3>
+            <p>K-means算法是一种典型的划分聚类算法，其基本思想是不断更新重复迭代，直到到达迭代次数要求或者聚类中心不再改变。</p>
+            <p><a href="{{ url_for('k_means') }}" class="btn btn-primary" role="button">点击使用</a>
+<!--                <a href="#" class="btn btn-default" role="button">Button</a>-->
+            </p>
+          </div>
+        </div>
+      </div>
+        <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="static/asset/6.jpg" class="img-fluid" alt="情感分析" width="241" height="200">
+          <div class="caption">
+            <h3>情感分析</h3>
+            <p>通过使用SnowNLP库函数对文本进行情感分析，数值在0-1之间，以0.5为分界线，大于0.5则为正面情感，低于0.5则为负面情感。</p>
+            <p><a href="{{ url_for('mood') }}" class="btn btn-primary" role="button">点击使用</a>
+<!--                <a href="#" class="btn btn-default" role="button">Button</a>-->
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,21 @@
+{%extends "base.html" %}
+{% block app_content%}
+    <h1>请输入您想情感分析的文件名</h1>
+    <br>
+    <div class="row">
+        <div class="col-md-6">
+            {% import 'bootstrap/wtf.html' as wtf %}
+            {{ wtf.quick_form(form) }}
+        </div>
+    </div>
+
+    {% if flag==1: %}
+        <hr/>
+        <div class="panel panel-default">
+            <!-- Default panel contents -->
+            <div class="panel-heading" >{{ filename }}的情感分析</div>
+                <img src={{ photo }} class="img-fluid" alt="{{ filename }}的情感分析" >
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}
